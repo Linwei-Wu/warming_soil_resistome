@@ -15,7 +15,7 @@ ktrim=r k=23 mink=11 hdist=1 qtrim=r trimq=20 maq=20 -t=4 tbo
 ```
 
 ## 1.2 Assembly
-We used MEGAHIT （https://github.com/voutcn/megahit）to assemble the contigs.
+We used MEGAHIT （https://github.com/voutcn/megahit) to assemble the contigs.
 ```
 megahit --12 S1.clean.fastq \
 -t 20 \
