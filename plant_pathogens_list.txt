@@ -1,7 +1,7 @@
 species	type
 Acidovorax citrulli	plant pathogen
 Agrobacterium tumefaciens	plant pathogen
-Candidatus Phytoplasma fraxini	plant pathogen
+Candidatus Phytoplasma fraxini	plant pathogen
 Candidatus Phytoplasma pruni	plant pathogen
 Candidatus Phytoplasma solani	plant pathogen
 Clavibacter insidiosus	plant pathogen
@@ -10,7 +10,6 @@ Dickeya dadantii	plant pathogen
 Dickeya solani	plant pathogen
 Erwinia	plant pathogen
 Erwinia psidii	plant pathogen
-Liberibacter	plant pathogen
 Pantoea stewartii	plant pathogen
 Paraburkholderia caryophylli	plant pathogen
 Pectobacterium atrosepticum	plant pathogen
@@ -46,9 +45,6 @@ Robbsia andropogonis	plant pathogen
 Spiroplasma citri	plant pathogen
 Streptomyces scabiei	plant pathogen
 Xanthomonas campestris	plant pathogen
-Xanthomonas campestris pv. campestris	plant pathogen
-Xanthomonas campestris pv. juglandis	plant pathogen
-Xanthomonas campestris pv. raphani	plant pathogen
 Xanthomonas nasturtii	plant pathogen
 Xanthomonas oryzae	plant pathogen
 Xanthomonas pruni	plant pathogen
