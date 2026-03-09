@@ -25,7 +25,6 @@ N_PERMUTATIONS <- 1000
 cat("Loading gene annotation data...\n")
 
 gene_df <- read_csv("gene_df_strains.csv")
-gene_df <- gene_df %>% filter(phy_group == "Actinobacteria") 
 head(gene_df) #see how the table is structured below
 
 #> head(gene_df) 
@@ -167,7 +166,7 @@ final_results <- observed_counts %>%
 cat("Final enrichment results:\n")
 print(final_results)
 
-write_csv(final_results, "final_results_strains_actino.csv")
+write_csv(final_results, "final_results_strains.csv")
 
 
 
